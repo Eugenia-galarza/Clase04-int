@@ -11,7 +11,7 @@
   
 ---
 
-Adjunto link NETLIFY [[INDICADORES](https://unique-snickerdoodle-023c66.netlify.app/)]
+Adjunto link NETLIFY [[INDICADORES](https://unique-snickerdoodle-023c66.netlify.app/).]
 
 Si no logro conectar con Netlify habilito la posibilidad de adjuntar archivo generado en Claude.
 Adjunto en este repositorio.
